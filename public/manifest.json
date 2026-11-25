@@ -1,0 +1,25 @@
+{
+  "name": "NilamKu — Catatan Minyak Nilam",
+  "short_name": "NilamKu",
+  "description": "Catat penyulingan, stok dan penjualan minyak nilam.",
+  "lang": "id",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#F6FAFD",
+  "theme_color": "#0FA968",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
